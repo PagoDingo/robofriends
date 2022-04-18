@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #144471 0%, rgba(9,128,128,1) 100%);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+  color: #496278
+}
+
+hr {
+  border-color: #66a9e3
+}
+
+p {
+  color: #344453
+}
+
+.title {
+  color: #fab488;
+  font-family: 'SEGA LOGO FONT', sans-serif;
 }
